@@ -1,0 +1,27 @@
+Summary for length 300
+Simulation took: 0.515610s
+Percentage viterbi was wrong: 0.23566666666666666
+Percentage posterrior was wrong: 0.19966666666666666
+MLE for the Fair die:	[ 0.17238866  0.16586469  0.18086373  0.16187428  0.1596031   0.15940554]
+MLE for the Loaded die:	[ 0.09669174  0.09878628  0.0993073   0.10723338  0.10480152  0.49317978]
+
+Summary for length 3000
+Simulation took: 5.432057s
+Percentage viterbi was wrong: 0.3197
+Percentage posterrior was wrong: 0.3365666666666667
+MLE for the Fair die:	[ 0.16799612  0.16563693  0.16708337  0.16599108  0.16610606  0.16718645]
+MLE for the Loaded die:	[ 0.09505425  0.10195147  0.10116889  0.10039615  0.10197157  0.49945767]
+
+Summary for length 30000
+Simulation took: 66.140791s
+Percentage viterbi was wrong: 0.3296133333333333
+Percentage posterrior was wrong: 0.33147
+MLE for the Fair die:	[ 0.16543654  0.16691446  0.16788274  0.16649466  0.16570169  0.16756992]
+MLE for the Loaded die:	[ 0.09865227  0.09954615  0.10023259  0.09991183  0.09920059  0.50245657]
+
+Summary for length 300000
+Simulation took: 1918.207065s
+Percentage viterbi was wrong: 0.33237733333333336
+Percentage posterrior was wrong: 0.33253166666666667
+MLE for the Fair die:	[ 0.1664873   0.16670603  0.16690386  0.1665461   0.16671065  0.16664606]
+MLE for the Loaded die:	[ 0.09981942  0.10019396  0.09952454  0.09970711  0.10032358  0.50043139]
